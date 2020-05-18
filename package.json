@@ -4,7 +4,10 @@
   "description": "fullsatack app with angular and express",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index"
+    "start": "nodemon index",
+    "client-install": "npm install --prefix client",
+    "client": "npm run start --prefix client",
+    "dev": "concurrently \"npm run start\" \"npm run client\""
   },
   "repository": {
     "type": "git",
@@ -32,5 +35,8 @@
     "multer": "^1.4.2",
     "passport": "^0.4.1",
     "passport-jwt": "^4.0.0"
+  },
+  "devDependencies": {
+    "concurrently": "^5.2.0"
   }
 }
