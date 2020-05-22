@@ -3,15 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="e5df6e53-63fe-4f22-b73b-53bc92898e3b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/app-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/shared/classes/material.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/shared/classes/material.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/shared/classes/token.interceptor.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/shared/classes/token.interceptor.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/shared/interfaces.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/shared/interfaces.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/shared/layouts/site-layout/site-layout.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/shared/layouts/site-layout/site-layout.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/shared/layouts/site-layout/site-layout.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/shared/layouts/site-layout/site-layout.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/theme/fullstack-theme-master/add-category.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/theme/fullstack-theme-master/add-category.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/categories-page/categories-form/positions-form/positions-form.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/categories-page/categories-form/positions-form/positions-form.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/categories-page/categories-form/positions-form/positions-form.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/categories-page/categories-form/positions-form/positions-form.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/shared/services/position.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/shared/services/position.service.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/src/app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../BlogAngular/angular-blog" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -71,7 +65,10 @@
       <workItem from="1589526647670" duration="10130000" />
       <workItem from="1589630765578" duration="1199000" />
       <workItem from="1589719023377" duration="12756000" />
-      <workItem from="1589789241566" duration="17944000" />
+      <workItem from="1589789241566" duration="18789000" />
+      <workItem from="1590088309835" duration="2551000" />
+      <workItem from="1590138796638" duration="2795000" />
+      <workItem from="1590171452785" duration="1624000" />
     </task>
     <servers />
   </component>
@@ -87,14 +84,18 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="0" y="372" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1589529510037" />
-    <state x="976" y="200" key="#com.intellij.ide.util.MemberChooser" timestamp="1589731628300">
+    <state x="976" y="200" key="#com.intellij.ide.util.MemberChooser" timestamp="1590140296894">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="976" y="200" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1589731628300" />
+    <state x="976" y="200" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1590140296893" />
     <state x="0" y="262" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589723156505">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="0" y="262" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1589723156505" />
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1590092957401">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1590092957401" />
     <state x="255" y="14" width="998" height="708" key="SettingsEditor" timestamp="1589526845515">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
