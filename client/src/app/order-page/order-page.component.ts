@@ -14,7 +14,7 @@ import {Subscription} from "rxjs";
 })
 export class OrderPageComponent implements OnInit, OnDestroy, AfterViewInit {
 
-  @ViewChild('modal') modalRef:ElementRef
+  @ViewChild('modal') modalRef: ElementRef
   isRoot: boolean;
   modal: MaterialInstance
   pending: boolean = false
@@ -37,8 +37,7 @@ export class OrderPageComponent implements OnInit, OnDestroy, AfterViewInit {
   }
 
   ngAfterViewInit(): void {
-    this.modal = MaterialService.initModal(this.modalRef)
-
+    this.modal = MaterialService.initModal(this.modalRef);
   }
 
   ngOnDestroy(): void {
