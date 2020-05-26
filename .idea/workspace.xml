@@ -3,25 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="e5df6e53-63fe-4f22-b73b-53bc92898e3b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/analytics-page/analytics-page.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/analytics-page/analytics-page.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/analytics-page/analytics-page.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/analytics-page/analytics-page.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/categories-page/categories-form/categories-form.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/categories-page/categories-form/categories-form.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/categories-page/categories-form/positions-form/positions-form.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/categories-page/categories-form/positions-form/positions-form.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/categories-page/categories-page.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/categories-page/categories-page.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/history-page/history-page.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/history-page/history-page.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/history-page/history-page.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/history-page/history-page.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/order-page/order-page.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/order-page/order-page.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/app/order-page/order-page.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/order-page/order-page.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/overview-page/overview-page.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/overview-page/overview-page.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/overview-page/overview-page.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/overview-page/overview-page.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/shared/classes/material.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/shared/classes/material.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/shared/interfaces.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/shared/interfaces.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/shared/layouts/site-layout/site-layout.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/shared/layouts/site-layout/site-layout.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/shared/services/orders.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/shared/services/orders.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/analytics.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/analytics.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/analytics.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/analytics.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/order-page/order.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/order-page/order.service.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +71,8 @@
       <workItem from="1590171452785" duration="2049000" />
       <workItem from="1590249818878" duration="7637000" />
       <workItem from="1590392427515" duration="8799000" />
-      <workItem from="1590406049165" duration="10589000" />
+      <workItem from="1590406049165" duration="11014000" />
+      <workItem from="1590475414587" duration="717000" />
     </task>
     <servers />
   </component>
